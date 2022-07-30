@@ -120,7 +120,7 @@ export default function App() {
           element={
             <Screen image="/4.jpg">
               <Button to="/main1F" x="25" y="586" w="60" h="40" />
-              <Button to="/saved" x="125" y="590" w="60" h="40" />
+              <Button to="/savedF" x="125" y="590" w="60" h="40" />
               <Button to="/profile1F" x="265" y="590" w="60" h="40" />
               <Button to="/infoF" x="305" y="510" w="36" h="40" />
               <Button to="/main3" x="25" y="40" w="280" h="450" />
